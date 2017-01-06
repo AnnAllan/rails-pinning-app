@@ -14,3 +14,9 @@
  *= require_self
  */
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.btn {
+	border-radius: 10px;
+	background-color: #dd5566;
+	border-color: #dd5566;
+}
